@@ -1,0 +1,23 @@
+.test {
+    font-size: 50px;
+    font-family: serif;
+    color: rgba(255, 158, 2, 0.796);
+    
+}
+
+body {
+    background-color: black;
+}
+.square {
+    width: 250px;
+    height: 100px;
+    background-color: rgb(1, 84, 116);
+    border-radius: 16%;
+    margin-top: -115px;
+}
+#qwerty {
+    color: blue;
+}
+.nigga{
+
+}
